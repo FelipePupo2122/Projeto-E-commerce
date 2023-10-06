@@ -1,0 +1,2 @@
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net7.0-windows\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net7.0-windows\Ecommerce.csproj.CoreCompileInputs.cache

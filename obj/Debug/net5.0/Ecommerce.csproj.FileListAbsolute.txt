@@ -1,0 +1,702 @@
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/appsettings.json
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.exe
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.deps.json
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Ecommerce.pdb
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.csprojAssemblyReference.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.pdb
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Humanizer.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/informatica/Documents/Ecomerce/Ecommerce/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/appsettings.Development.json
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/appsettings.json
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.deps.json
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/ref/Ecommerce.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.pdb
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Humanizer.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/ref/Ecommerce.dll
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.pdb
+/Users/eduardagarangau/Projeto-eCommerce/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.pdb
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/appsettings.json
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.exe
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.deps.json
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.pdb
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Humanizer.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+C:/Users/eduar/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/appsettings.json
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.StaticWebAssets.xml
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.exe
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.deps.json
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.pdb
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Humanizer.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/refint/Ecommerce.dll
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.pdb
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:/Users/Usuario/Documents/Projeto-eCommerce/obj/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.pdb
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/appsettings.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.exe
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.deps.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Ecommerce.pdb
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Humanizer.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.pdb
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/appsettings.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.exe
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.deps.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/ref/Ecommerce.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.pdb
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Humanizer.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+C:/Users/08591413903.EDUC/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/appsettings.json
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.deps.json
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.runtimeconfig.json
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.runtimeconfig.dev.json
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/ref/Ecommerce.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Ecommerce.pdb
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Humanizer.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.AssemblyReference.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.AssemblyInfo.cs
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.Manifest.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/staticwebassets/Ecommerce.StaticWebAssets.xml
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/scopedcss/bundle/Ecommerce.styles.css
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.RazorTargetAssemblyInfo.cache
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.csproj.CopyComplete
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/ref/Ecommerce.dll
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.pdb
+/Users/eduardagarangau/Desktop/Projeto-eCommerce/API/obj/Debug/net5.0/Ecommerce.genruntimeconfig.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.StaticWebAssets.xml
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Pack.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\refint\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Julio Cesar\Documents\Desktop\Economia\Projeto-eCommerce\API\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.StaticWebAssets.xml
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Pack.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\refint\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Julio Cesar\Documents\Desktop\Atividades Complementares\Projeto-eCommerce\API\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\appsettings.json
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.xml
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\eduar\Desktop\Projeto-eCommerce-1\api\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.StaticWebAssets.xml
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Pack.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\refint\Ecommerce.dll
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Julio Cesar\Documents\Desktop\ProjetoCOPIAR\Projeto-eCommerce\API\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\appsettings.json
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.StaticWebAssets.xml
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Pack.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\msbuild.build.Ecommerce.props
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\refint\Ecommerce.dll
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\ruan.horstmann\Downloads\Projeto-eCommerce-main\API\obj\Debug\net5.0\ref\Ecommerce.dll
